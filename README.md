@@ -8,6 +8,10 @@
 
 [Chapter 4: Understanding Ownership](./Chapter4.md)
 
+[Chapter 5: Understanding Structs](./Chapter5.md)
+
+
+
 
 
 
