@@ -4,6 +4,10 @@
 
 [Chapter 2: Overview of Rust](./Chapter2.md)
 
+[Chapter 3: Common Programming Concepts](./Chapter3.md)
+
+[Chapter 4: Understanding Ownership](./Chapter4.md)
+
 
 
 
