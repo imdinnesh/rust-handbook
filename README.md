@@ -10,7 +10,9 @@
 
 [Chapter 5: Understanding Structs](./Chapter5.md)
 
+[Chapter 6: Understanding Enums and Pattern Matching](./Chapter6.md)
 
+[Chapter 7: Understanding Packages, Crates, and Modules](./Chapter7.md)
 
 
 
