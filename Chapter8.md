@@ -80,6 +80,40 @@ for i in &mut v {
 } // <- v goes out of scope and is freed here
 ```
 
+### Storing UTF-8 Encoded Text with Strings
+
+**Creating a New String**
+
+```
+let mut s = String::new();
+```
+
+```rust
+let data = "initial contents";
+
+let s = data.to_string();
+
+// The method also works on a literal directly:
+let s = "initial contents".to_string();
+```
+
+```rust
+let s = String::from("initial contents");
+```
+
+**Appending with push_str or push**
+
+```rust
+let mut s1 = String::from("foo");
+let s2 = "bar";
+s1.push_str(s2);
+println!("s2 is {s2}");
+```
+
+
+
+
+
 
 
 
