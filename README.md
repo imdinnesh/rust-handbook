@@ -14,6 +14,8 @@
 
 [Chapter 7: Understanding Packages, Crates, and Modules](./Chapter7.md)
 
+[Chapter 8: Understanding Collections](./Chapter8.md)
+
 
 
 
